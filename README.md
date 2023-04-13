@@ -6,7 +6,7 @@ simple fov changer for cs:go
 
 
 
-[last version](https://linktodocumentation)
+[last version](https://github.com/lulv3z/CSGO-FOV-changer/releases/latest)
 
 
 
